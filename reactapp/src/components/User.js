@@ -5,8 +5,8 @@ class User extends Component {
     return (
       <div>
         <form>
-            <input type="text"> 
-            <button>gonder</button>  
+            <input type="text" />
+            <button>Gonder</button>  
         </form>
       </div>
     )
