@@ -11,6 +11,11 @@ class App extends Component {
       
           <h4>APP Component</h4>
           <User/>
+          <User/>
+          <User/>
+          <User/>
+          <User/>
+          <User/>
       </div>
       
     );
